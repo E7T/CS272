@@ -1,0 +1,10 @@
+Welcome class result:
+1566684704549
+Welcome to Java
+
+Addition class with variable being 20 result:
+Summation for number 20 is: 210
+
+Addition class with variable being 10 result:
+Summation for number 10 is: 1023
+
